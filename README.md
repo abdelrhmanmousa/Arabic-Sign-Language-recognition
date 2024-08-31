@@ -31,7 +31,7 @@ To set up this project locally, follow these steps:
    git clone https://github.com/yourusername/arabic-sign-language-recognition.git
    cd arabic-sign-language-recognition
 ## Usage 
-Users can interact with this project by any IDE for Python i recommend Visual studio Code and install all libraries in Prerequisites file [Prerequisites file](https://github.com/abdelrhmanmousa/Arabic-Sign-Language-recognition/blob/main/Prerequisites)
+Users can interact with this project by any IDE for Python i recommend Visual studio Code and install all libraries in Prerequisites file [requirements.txt file](https://github.com/abdelrhmanmousa/Arabic-Sign-Language-recognition/blob/main/requirements.txt)
 
 ## Features
 Here's a detailed explanation of sign to text functionality within the software:
