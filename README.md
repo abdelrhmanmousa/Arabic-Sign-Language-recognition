@@ -9,9 +9,10 @@ In the domain of Sign Language Recognition (SLR), different models have made sig
 This project demonstrates two approaches based on pose estimation of landmarks to effectively handle both word-level and character-level gestures. The primary objective is to achieve high recognition accuracy across a large dataset, particularly for complex signs, using efficient classifiers and less computational models, ensuring real-time performance.
 
 The proposed models consist of:
-- **Multi-layer Perceptron (MLP) classifier** for recognizing static signs, such as individual(static) characters.
+- **Multi-layer Perceptron (MLP) classifier** for recognizing static signs, such as individual(static) characters.![MLP architecture](https://github.com/user-attachments/assets/7140f5d0-b74d-41fa-b804-b35abb5ffa1b)
+
 - **Long Short-Term Memory (LSTM) network** for recognizing dynamic signs, such as complex(dynamic) gestures that involve motion.
-  ![image](https://github.com/user-attachments/assets/fb02f84a-f30a-465c-854b-f47adfddb022)
+  ![LSTM in real time](https://github.com/user-attachments/assets/fb02f84a-f30a-465c-854b-f47adfddb022)
 
 
 ## Table of Contents
