@@ -1,6 +1,6 @@
 # Arabic Sign Language Recognition
 
-A project focused on enhancing the recognition accuracy of Arabic sign language gestures using efficient machine learning models.
+A project focused on enhancing the recognition accuracy of Arabic sign language gestures using efficient Deep learning models.
 
 ## Description
 
