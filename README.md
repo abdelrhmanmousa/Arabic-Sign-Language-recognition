@@ -34,38 +34,38 @@ Users can interact with this project by any IDE for Python i recommend Visual st
 Here's a detailed explanation of sign to text functionality within the software:
 + Gesture detection: The software utilizes computer vision techniques and
   
-MediaPipe to detect and analyze Arabic sign language data.
+   MediaPipe to detect and analyze Arabic sign language data.
 
 + Gesture Recognition: Gestures are detected using deep learning algorithms
-such as LSTMSs and MLP.
+   such as LSTMSs and MLP.
 
 + Translation: The software recognizes gestures and maps them to Arabic text
   
-representations. Each Arabic Sign Language sign corresponds to a specific word,
+   representations. Each Arabic Sign Language sign corresponds to a specific word,
 
-phrase, or concept in written or typed Arabic text.
+   phrase, or concept in written or typed Arabic text.
 
 + Real-time Feedback: The sign to text conversion process is real-time, allowing
  
-for instant translation of sign language gestures into text.
+   for instant translation of sign language gestures into text.
 
 + Contextual Understanding: The software considers individual signs and
   
-conversation context to improve translation accuracy and relevance. It takes into
+   conversation context to improve translation accuracy and relevance. It takes into
 
-account factors such as the sequence of gestures for a more comprehensive
+   account factors such as the sequence of gestures for a more comprehensive
 
-understanding of communication.
+   understanding of communication.
 
 + Adaptation and Learning: The software may use adaptive learning
  
-mechanisms to enhance recognition accuracy over time, incorporating feedback
+   mechanisms to enhance recognition accuracy over time, incorporating feedback
 
-loops for user correction and refinement of algorithms and models.
+   loops for user correction and refinement of algorithms and models.
 
 + Output Options: The translated text output can be displayed in various formats,
-+ 
-including on-screen text or as input to other applications for further processing
+  
+   including on-screen text or as input to other applications for further processing
 
-or communication
+   or communication
 
