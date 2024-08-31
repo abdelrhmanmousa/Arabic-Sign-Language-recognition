@@ -11,6 +11,8 @@ This project demonstrates two approaches based on pose estimation of landmarks t
 The proposed models consist of:
 - **Multi-layer Perceptron (MLP) classifier** for recognizing static signs, such as individual(static) characters.
 - **Long Short-Term Memory (LSTM) network** for recognizing dynamic signs, such as complex(dynamic) gestures that involve motion.
+  [image](https://github.com/user-attachments/assets/fb02f84a-f30a-465c-854b-f47adfddb022)
+
 
 ## Table of Contents
 
